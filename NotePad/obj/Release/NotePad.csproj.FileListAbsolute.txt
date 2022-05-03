@@ -1,0 +1,11 @@
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\bin\Release\NoteSharp.exe.config
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\bin\Release\NoteSharp.exe
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\bin\Release\NoteSharp.pdb
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\obj\Release\NotePad.Configuration.resources
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\obj\Release\NotePad.Form1.resources
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\obj\Release\NotePad.Properties.Resources.resources
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\obj\Release\NotePad.Sobre.resources
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\obj\Release\NotePad.csproj.GenerateResource.cache
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\obj\Release\NotePad.csproj.CoreCompileInputs.cache
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\obj\Release\NoteSharp.exe
+D:\matheus\documentos\ProjectsVS\NotePad\NotePad\obj\Release\NoteSharp.pdb
